@@ -10,8 +10,9 @@ This project utilizes the power of **RealVisXL V4.0** (an SDXL model) combined w
 
 If you want images that look so real your grandmother will frame them, you are in the right place.
 
+<img width="2979" height="1666" alt="ComfyUI_00062_" src="https://github.com/user-attachments/assets/ef3c5ec8-ee75-4fe4-9f2f-3cfd55c40ba6" />
 
-![Uploading ComfyUI_00245_.png…]()
+!! Metadata is still present in the image
 
 ---
 
@@ -98,6 +99,10 @@ If you see this error, Windows is choking on the massive SDXL model. This workfl
 
 
 5. **Press "Queue Prompt"** and watch the magic happen.
+
+https://github.com/user-attachments/assets/0c46322e-ad5e-484d-b94e-897a7a6f760d
+
+
 
 ---
 
