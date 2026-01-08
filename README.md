@@ -10,6 +10,9 @@ This project utilizes the power of **RealVisXL V4.0** (an SDXL model) combined w
 
 If you want images that look so real your grandmother will frame them, you are in the right place.
 
+
+![Uploading ComfyUI_00245_.png…]()
+
 ---
 
 ## ✨ Features (The Cool Stuff)
