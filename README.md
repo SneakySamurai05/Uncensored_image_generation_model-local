@@ -110,8 +110,8 @@ If you see this error, Windows is choking on the massive SDXL model. This workfl
 ## 📜 Credits
 
 * **Workflow Architect: <Sarvesh A. Nasalapure/>
-* **Model Creator:** SG_161222 (RealVisXL)
-* **Moral Support:** My poor RTX 4060 fan, spinning at 100%.
+* **Model Creator: SG_161222 (RealVisXL)
+* **Moral Support: My poor RTX 4060 fan, spinning at 100%.
 
 ---
 
